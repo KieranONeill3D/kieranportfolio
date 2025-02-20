@@ -28,6 +28,19 @@
     },
     {
         "id": 3,
+        "title": "Simple RTS Prototype",
+        "infotitles":["Project Type","My Role","Date","Software Used"],
+        "infodata":["Solo","Developer","09/12/2024 - 18/03/2025","Unreal Engine"],
+        "downloadtext": "WIP",
+        "downloadlink":"https://www.youtube.com/watch?v=5GBMkql3Jks",
+        "shortdescription": "Level 6 2025 Prototype Project",
+        "longdescription": ["<p>A project I worked on during the second trimester of my Level 5. The task was to develop a 2D game and I have always loved Tower Defence games. So I set out to make a simple and straightforward tower defence game using inspiration from games such as Thronefall.</p>"],
+        "mainimage": "/kieranportfolio/images/towerdefence/TowerDefence.jpg",
+        "videos": ["https://www.youtube.com/embed/dIo3lYqPwHQ?controls=1&autoplay=1&mute=1"],
+        "images": ["/kieranportfolio/images/towerdefence/TowerDefenceGameplay.jpg"]
+    },
+    {
+        "id": 4,
         "title": "Simple Tower Defence",
         "infotitles":["Project Type","My Role","Date","Software Used"],
         "infodata":["Solo","Developer","02/01/2024 - 01/03/2024","Unreal Engine"],
