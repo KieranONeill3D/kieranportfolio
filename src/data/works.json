@@ -32,12 +32,12 @@
         "infotitles":["Project Type","My Role","Date","Software Used"],
         "infodata":["Solo","Developer","09/12/2024 - 18/03/2025","Unreal Engine"],
         "downloadtext": "WIP",
-        "downloadlink":"https://www.youtube.com/watch?v=5GBMkql3Jks",
+        "downloadlink":"https://www.youtube.com/watch?v=dIo3lYqPwHQ",
         "shortdescription": "Level 6 2025 Prototype Project",
-        "longdescription": ["<p>A project I worked on during the second trimester of my Level 5. The task was to develop a 2D game and I have always loved Tower Defence games. So I set out to make a simple and straightforward tower defence game using inspiration from games such as Thronefall.</p>"],
-        "mainimage": "/kieranportfolio/images/towerdefence/TowerDefence.jpg",
+        "longdescription": ["<p>I have always loved Real-time Strategy (RTS) games, and one thing that I feel passionately about is a lot of the modern RTS games have become very complex, being overwhelming for player with the amount of options and tasks they need to manage. So, I set out to create a simple RTS prototype which takes inspiration from older RTS games such as Star Wars: Empire at War, Lorf of the Rings: Battle for Middle-earth and other such games, to make a fun yet simple RTS game that keeps mechanics easy to pick-up brings them to a modern era.</p>"],
+        "mainimage": "/kieranportfolio/images/rtsprototype/SimpleRTSPrototype.jpg",
         "videos": ["https://www.youtube.com/embed/dIo3lYqPwHQ?controls=1&autoplay=1&mute=1"],
-        "images": ["/kieranportfolio/images/towerdefence/TowerDefenceGameplay.jpg"]
+        "images": ["/kieranportfolio/images/rtsprototype/RTSPrototypeScreenshot1.png","/kieranportfolio/images/rtsprototype/RTSPrototypeScreenshot2.png","/kieranportfolio/images/rtsprototype/RTSPrototypeScreenshot3.png"]
     },
     {
         "id": 4,
